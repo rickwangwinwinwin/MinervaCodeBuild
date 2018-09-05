@@ -1,0 +1,201 @@
+QMS Case Ref,FPS Ref,Customer Details,Bank Type,Payment Type,Error Type,Reason for Claim,ReasonForClaimOther,Case Status,Creation Date,Inquiry Amount
+QMS180510-001182,RP1752761713115651,Beatrisa Dockrill,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,10-05-2018,994
+QMS180510-003428,RP4146627602885371,Aleece Tait,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,10-05-2018,180
+QMS180510-001057,RP6844235518127131,Prentice O'Collopy,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,10-05-2018,894
+QMS180510-001586,RP1517031725030721,Brandais Tompion,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,10-05-2018,887
+QMS180510-002068,RP8314107536176101,Parsifal Tanfield,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,10-05-2018,526
+QMS608283-528948,RP8056873585856661,Artur Ladds,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,11-05-2018,927
+QMS456798-848788,RP8726172273336271,Angil Richings,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,12-05-2018,216
+QMS143196-580460,RP3771268728758571,Dennet Wessel,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,13-05-2018,420
+QMS411534-163988,RP8087874247532371,Nickola Alfonsetti,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,14-05-2018,202
+QMS989365-598015,RP2368708026623711,Maurice Grimshaw,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,15-05-2018,534
+QMS537065-973046,RP8843584071328181,Gaylord Barlass,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,16-05-2018,584
+QMS993683-599209,RP2738026134305081,Malia Paybody,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,17-05-2018,710
+QMS479794-912069,RP2183135703487271,Hayes Ayris,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,18-05-2018,257
+QMS516626-392861,RP8550760365758101,Elberta Gibbon,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,19-05-2018,896
+QMS177582-997269,RP5454350424473741,Alyosha Nesbit,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,20-05-2018,373
+QMS955345-854341,RP1223462722607271,Steffane O'Dowd,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,21-05-2018,113
+QMS896710-150234,RP5767383583778171,Alisun Switsur,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,22-05-2018,256
+QMS490391-217150,RP3278325437861471,Tito Bellefonte,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,23-05-2018,966
+QMS709357-138599,RP2177157261501771,Vic Sackett,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,24-05-2018,455
+QMS614530-730074,RP1060370780571711,Iosep Goodings,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,25-05-2018,30
+QMS299754-760547,RP8700187210147541,Robb Rahlof,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,26-05-2018,802
+QMS358521-595510,RP4017754227777381,Gunar Idell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,27-05-2018,915
+QMS797733-116321,RP2267468755887011,Dolorita Tregidgo,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,28-05-2018,979
+QMS305210-345256,RP7661163741683501,Kassie Garretts,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,29-05-2018,345
+QMS442240-792946,RP3180472100081801,Derk Christall,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,30-05-2018,479
+QMS198412-721990,RP7544757715287781,Leigh Broadbent,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,31-05-2018,53
+QMS201681-446025,RP6714478538732531,Hannie De Gowe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,01-06-2018,150
+QMS367709-583333,RP5440381034072061,Latashia Caddock,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,02-06-2018,865
+QMS858322-602545,RP3077256430756861,Ferguson Wintersgill,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,03-06-2018,868
+QMS891028-214051,RP4608662815051571,Teirtza Huckett,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,04-06-2018,948
+QMS541637-702578,RP1770677056764751,Hettie Cops,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,05-06-2018,292
+QMS775259-730830,RP8034207263732751,Tobin Prowse,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,06-06-2018,32
+QMS522898-400630,RP6386365378657501,Bucky Cassels,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,07-06-2018,946
+QMS887895-891727,RP7348257077862451,Eliza Moughton,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,08-06-2018,619
+QMS478782-626090,RP8064204326530081,Christoper Bredbury,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,09-06-2018,538
+QMS980618-990448,RP7172100757730521,Hatti Bickford,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,10-06-2018,588
+QMS698900-496369,RP5703210713771001,Chev Cruikshanks,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,11-06-2018,649
+QMS408304-762918,RP4224218864564221,Elyn Cattenach,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,12-06-2018,571
+QMS654244-167727,RP6002724507758771,Lance Tryhorn,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,13-06-2018,947
+QMS161695-806727,RP8733774058502481,Holmes Handling,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,14-06-2018,75
+QMS368804-407951,RP2563715428172551,Lammond Canavan,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,15-06-2018,544
+QMS588982-852356,RP7676752175115031,Vergil Younie,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,16-06-2018,830
+QMS175034-331015,RP7658772718724741,Athene Cherrison,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,17-06-2018,740
+QMS293206-996900,RP1575776870061761,Modestia Ronan,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,18-06-2018,213
+QMS102837-241460,RP1860782101077151,Xenia Grasser,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,19-06-2018,472
+QMS539664-479401,RP6758668708136811,Demetria Axelby,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,20-06-2018,880
+QMS585831-620555,RP7016687600173221,Meriel Stroban,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,21-06-2018,359
+QMS713353-642050,RP2227060331474251,Engelbert Defty,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,22-06-2018,145
+QMS160898-323939,RP5080437418675371,Eran Strognell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,23-06-2018,16
+QMS345453-678767,RP5648713576215761,Gasper Kemell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,24-06-2018,751
+QMS795023-240783,RP1673086800843311,Ingeborg Fillis,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,25-06-2018,348
+QMS439319-533520,RP7376746048883461,Sayre Grolmann,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,26-06-2018,462
+QMS188428-116427,RP3745842870320771,Debee Blucher,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,27-06-2018,792
+QMS370850-453354,RP3622787016704871,Tamma Lavell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,28-06-2018,928
+QMS535023-164101,RP8703671205288131,Farah Cowl,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,29-06-2018,215
+QMS641443-907373,RP7058707847100571,Evelyn Lambswood,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,30-06-2018,841
+QMS127633-392131,RP1823822357484021,Lisbeth Botton,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,01-07-2018,827
+QMS780069-826020,RP6341060716841551,Hakeem Stell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,02-07-2018,17
+QMS337514-102894,RP5054176320440881,Slade Lenard,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,03-07-2018,879
+QMS196581-911828,RP3372677787886541,Belita Saywell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,04-07-2018,657
+QMS448926-567393,RP7784726081877851,Berri Campa,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,05-07-2018,200
+QMS299467-165760,RP3607217607780641,Paxon Greenhow,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,06-07-2018,553
+QMS579454-771350,RP7607480532108251,Maxim Goodoune,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,07-07-2018,81
+QMS387398-902669,RP6522582675861101,Nikoletta Esbrook,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,08-07-2018,564
+QMS901053-591604,RP7142786040236211,Tresa Lardiner,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,09-07-2018,505
+QMS452259-432747,RP2437764285683211,Rozanne Ivakin,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Resolved-Misdirect,10-07-2018,685
+QMS902100-655730,RP2006576632477231,Tonnie Finnemore,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,11-07-2018,376
+QMS993361-934471,RP3787015027821701,Miquela Dicty,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,Pending-Misdirect,12-07-2018,655
+QMS827943-984306,RP7475626676815601,Karol Wallworth,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,13-07-2018,186
+QMS167436-514231,RP7622734541846781,Keslie Attkins,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect SRT code,New-Misdirect,14-07-2018,68
+QMS260765-309828,RP3895367966958591,Kameko Bunny,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,15-07-2018,506
+QMS952454-356039,RP3154564062081471,Fifi Cockings,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,16-07-2018,133
+QMS823386-662313,RP7755213850348151,Marrissa Gutowski,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,17-07-2018,78
+QMS681301-889437,RP1581086686974891,Lucretia Gopsall,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,18-07-2018,581
+QMS214767-105043,RP8465220837558481,Lenore Nickols,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,19-07-2018,555
+QMS672082-871245,RP9461279142960611,Gwenneth Schultes,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,20-07-2018,261
+QMS790781-320527,RP8768966481870471,Pepita Roffe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,21-07-2018,178
+QMS765083-335329,RP4056125152502541,Sanderson Worsell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,22-07-2018,975
+QMS691148-705707,RP1097500622228861,Davita Rollason,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,23-07-2018,72
+QMS933278-120263,RP3835753600511861,Kial Zmitrovich,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,24-07-2018,995
+QMS726020-615510,RP7568412149698771,Elden Dulake,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,25-07-2018,710
+QMS769797-464902,RP2483474784714921,Jannelle Shee,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,26-07-2018,388
+QMS432090-116437,RP3953067975033961,Scott Mayho,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,27-07-2018,240
+QMS580736-475346,RP3140850571193851,Candy Guilder,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,28-07-2018,77
+QMS624571-766309,RP6976338636946741,Myca Horder,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,29-07-2018,983
+QMS144001-927917,RP1522974442031761,Latrina Mimmack,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,30-07-2018,118
+QMS602046-910164,RP3803589583295541,Claudelle Braime,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,31-07-2018,939
+QMS518692-661240,RP9686545851988211,Minna Shelf,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,01-08-2018,70
+QMS182963-277104,RP9629970604203791,Fifi Walsh,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,02-08-2018,654
+QMS935502-224407,RP1136149156905191,Linnie Prandin,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,03-08-2018,579
+QMS971408-550210,RP5182299650961801,Georgiana Hollindale,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,04-08-2018,943
+QMS177662-361735,RP6432390493306861,Mimi McGaffey,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,05-08-2018,266
+QMS805509-844050,RP5372055156279171,Kilian Chooter,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,06-08-2018,102
+QMS474857-166912,RP6673117329038101,Gerhard Clarage,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,07-08-2018,385
+QMS211523-811044,RP5958961015937711,Pierre Dunnan,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,08-08-2018,113
+QMS423670-813004,RP3375946964700201,Hurlee Holby,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,09-08-2018,623
+QMS116066-165980,RP5732599848307181,Urbanus Water,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,10-08-2018,566
+QMS116275-689171,RP7937845616045351,Amandi Gilmour,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,11-08-2018,406
+QMS375716-253642,RP1559599415195801,Bjorn Maddrah,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,12-08-2018,863
+QMS842198-752889,RP8859037005840021,Elisabetta Mebius,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,13-08-2018,413
+QMS828733-564888,RP8151270012823661,Ely Tracey,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,14-08-2018,814
+QMS198079-621819,RP8887388597722341,Simmonds Camerati,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,15-08-2018,566
+QMS214280-888359,RP5538381196624061,Amos Guierre,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,16-08-2018,519
+QMS178050-898745,RP5350814700423351,Dorothy Paske,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,17-08-2018,437
+QMS944780-812114,RP1513829183325661,Pietra Pes,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,18-08-2018,961
+QMS364775-974326,RP9413018564794441,Heda Gaveltone,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,19-08-2018,764
+QMS999203-667554,RP7097669257707401,Dani Schwerin,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,20-08-2018,379
+QMS576528-811415,RP3626477455711491,Axe Hawkin,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,21-08-2018,864
+QMS859234-866446,RP4782027476570551,Mariette Pendrick,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,22-08-2018,163
+QMS203149-663180,RP4906068179592751,Marcellina Ciccoloi,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,23-08-2018,55
+QMS921947-730900,RP1282047433941821,Elvira Fearfull,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,24-08-2018,661
+QMS423719-600093,RP7985359528058921,Bill Cobbald,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,25-08-2018,688
+QMS450720-388852,RP7776649408919101,Tandy Nelsen,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,26-08-2018,266
+QMS314523-234815,RP2375186021749471,Constantin Dumbar,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,27-08-2018,352
+QMS732890-783847,RP7844501423968761,Dalston Robbert,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,28-08-2018,587
+QMS779447-807699,RP8049728743868031,Aubree Tatersale,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,29-08-2018,605
+QMS208902-892953,RP6936596070544971,Morgan Preshous,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,30-08-2018,327
+QMS554477-665829,RP3486381075197741,Gerhard Trench,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,31-08-2018,76
+QMS294957-156682,RP6897764925126201,Grata Wolseley,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,01-09-2018,546
+QMS773674-886563,RP7339082782040421,Antonetta Shipton,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,02-09-2018,263
+QMS691596-727147,RP9027040646095961,Ly Pullan,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,03-09-2018,983
+QMS950118-755117,RP2387260350779261,Carter Sparks,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,04-09-2018,276
+QMS351740-457942,RP3439823571071921,Annadiane Sample,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,05-09-2018,377
+QMS738268-283803,RP9566620283969401,Chaddie Marshfield,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,06-09-2018,682
+QMS586450-309883,RP9233115296226751,Ruddie Albasiny,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,07-09-2018,114
+QMS904138-411410,RP8812487209413841,Anatola Driffe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,08-09-2018,784
+QMS616719-407565,RP1509451965107381,Kristopher Broxis,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,09-09-2018,733
+QMS816519-506655,RP4757210456098541,Nicol Pidon,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,10-09-2018,893
+QMS588809-109835,RP6606687057478681,Gale Humble,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,11-09-2018,139
+QMS507516-335991,RP6604851073240771,Marietta Achurch,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,12-09-2018,931
+QMS211904-239306,RP5740718815979421,Timothee Griffithe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,13-09-2018,784
+QMS369204-210104,RP1899623546686771,Jamison Clarson,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,14-09-2018,553
+QMS699735-781920,RP8193873871959231,Rozella Joselovitch,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,15-09-2018,251
+QMS861423-486854,RP2594272136703821,Jaquenette Sydry,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,16-09-2018,922
+QMS918834-870970,RP4883727447227961,Donnie McPartlin,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,17-09-2018,379
+QMS142610-682198,RP9835588296351071,Alphonso Hindshaw,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Resolved-Misdirect,18-09-2018,796
+QMS518071-442069,RP8172631593830631,Ivor Pooke,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,19-09-2018,236
+QMS801064-976832,RP5032235701882501,Rog Staner,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,Pending-Misdirect,20-09-2018,108
+QMS425621-500460,RP3337142375122141,Gilbertina Greatreax,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,21-09-2018,623
+QMS918941-689010,RP3563405749743681,Con Jimmison,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Account Number,New-Misdirect,22-09-2018,79
+QMS543520-859063,RP1121198329744001,Paul Elwell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,23-09-2018,324
+QMS382491-610390,RP3780722954287971,Karyn Ottam,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,24-09-2018,700
+QMS637125-227505,RP3992668990303361,Wildon Sevior,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,25-09-2018,372
+QMS426939-332766,RP7809612350201561,Laurel Verny,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,26-09-2018,40
+QMS384041-144195,RP2026616268144111,Wade Kennington,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,27-09-2018,40
+QMS825860-913059,RP4482987442095871,Blinny Bresner,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,28-09-2018,578
+QMS585674-434552,RP6227069687107121,Hakim Kerner,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,29-09-2018,475
+QMS483904-323264,RP2295161117255121,Kathleen Sappson,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,30-09-2018,245
+QMS799426-180182,RP2994039989514151,Caye Januszewski,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,01-10-2018,410
+QMS810671-205264,RP6793600808581911,Margret Kett,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,02-10-2018,768
+QMS440307-618160,RP4296793836143181,Rikki Keeri,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,03-10-2018,783
+QMS880834-472056,RP4439583066293801,Adriana Prowse,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,04-10-2018,49
+QMS507317-626916,RP6037050673042331,Kliment Gothrup,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,05-10-2018,815
+QMS424344-878935,RP9907137287251011,Cornelia Smallacombe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,06-10-2018,466
+QMS986300-302954,RP7693185862728351,Bing Layhe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,07-10-2018,78
+QMS974511-942086,RP2968743755633111,Vin Davenhill,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,08-10-2018,759
+QMS508052-770884,RP3525406297347331,Riva Lawtie,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,09-10-2018,662
+QMS898346-639974,RP2401432521411131,Darci Ailward,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,10-10-2018,942
+QMS781328-953250,RP2060832326175921,Ronna Nancarrow,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,11-10-2018,990
+QMS309460-266617,RP3160155381246531,Aluin Mizzen,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,12-10-2018,877
+QMS909620-343981,RP6946173521183551,Artemis Crosse,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,13-10-2018,489
+QMS445420-582514,RP3577928820378631,Jaine Peploe,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,14-10-2018,171
+QMS456203-938798,RP3714412336776631,Nial Dyde,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,15-10-2018,160
+QMS874532-255062,RP1236699371801011,Marius Fripps,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,16-10-2018,971
+QMS863299-392667,RP5986127110087821,Briant Poundsford,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,17-10-2018,478
+QMS980738-442036,RP7722617165951791,Morgun Frotton,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,18-10-2018,870
+QMS318319-353599,RP1431272530296281,Ethel Qusklay,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,19-10-2018,559
+QMS398747-637093,RP4662210248634691,Wilden Treher,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,20-10-2018,949
+QMS786747-236980,RP2919301648457241,Kass Hutchinges,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,21-10-2018,342
+QMS180016-556665,RP8787643546438811,Laure Flagg,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,22-10-2018,373
+QMS640182-457518,RP5452007384220301,Bibbie Duxbury,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,23-10-2018,540
+QMS178489-460428,RP6263229301847741,Jess Girardet,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,24-10-2018,56
+QMS509256-635348,RP4832341757649771,Rickie Fairholme,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,25-10-2018,677
+QMS436811-829552,RP6889848413123121,Marni Kelinge,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,26-10-2018,669
+QMS547710-862062,RP4267336954694411,Tandy Schoenfisch,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,27-10-2018,87
+QMS849011-185347,RP9783576497729591,Barnabas Jessope,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,28-10-2018,990
+QMS108201-208459,RP5948790883863191,Cara Oxbury,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,29-10-2018,289
+QMS524880-344227,RP1274344237662271,Rudy Linkie,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,30-10-2018,117
+QMS160718-568811,RP6711555258932671,Valeria Goody,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,31-10-2018,216
+QMS708481-699460,RP4033919315316491,Garvin MacGiolla Pheadair,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,01-11-2018,644
+QMS146669-653825,RP2073003310044131,Carrol Sonley,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,02-11-2018,310
+QMS354277-190283,RP1762653178175301,Stesha Kain,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,03-11-2018,887
+QMS113997-904667,RP3406103827334591,Tracee Vernay,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,04-11-2018,679
+QMS892330-587217,RP3123050794122431,Carey Biddell,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,05-11-2018,387
+QMS609917-405864,RP9022450034318841,Skye Logsdail,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,06-11-2018,856
+QMS694970-188157,RP7618332084858011,Tomlin McDuffy,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,07-11-2018,778
+QMS515913-830232,RP1488098696932921,Taddeusz McMonies,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,08-11-2018,492
+QMS923529-772825,RP1669641659294541,Frances Eslie,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,09-11-2018,340
+QMS839827-275521,RP3089746138708231,Hillie Ridhole,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,10-11-2018,29
+QMS449100-828730,RP2210131504194251,Stefan Swigger,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,11-11-2018,55
+QMS559220-137195,RP9395838495239021,Flinn Cayley,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,12-11-2018,306
+QMS354993-749532,RP8473041782000421,Erica Kipling,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,13-11-2018,601
+QMS603551-379659,RP3545519213263911,Tedra Arpur,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,14-11-2018,373
+QMS952169-471092,RP9317643375414931,Whit MacCleay,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,15-11-2018,378
+QMS545274-394867,RP6151544040882441,Vasily Gigg,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,16-11-2018,804
+QMS798385-109514,RP3022951844010251,Vail Swafield,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Resolved-Misdirect,17-11-2018,299
+QMS954971-196203,RP7217494505027681,Leah O'Hdirscoll,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,18-11-2018,459
+QMS212965-447263,RP5254751194149991,Wallas Decayette,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,Pending-Misdirect,19-11-2018,577
+QMS527192-789762,RP6545808822282031,Evyn Lawty,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,20-11-2018,610
+QMS348861-763657,RP5835921616141961,Tan Evangelinos,Sending Bank,FPS,Customer Error,1 - Incorrect A/C,Incorrect Name,New-Misdirect,21-11-2018,399
